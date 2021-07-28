@@ -14,7 +14,7 @@ namespace ThreeCols
 		public ThreeColsClient(string apiKey)
 		{
 			HttpClient = new HttpClient();
-			HttpClient.BaseAddress = new Uri("https://dev.3cols.com/api/public/");
+			HttpClient.BaseAddress = new Uri("https://3cols.com/api/public/");
 			HttpClient.DefaultRequestHeaders.Add("x-api-key", apiKey);
 		}
 
