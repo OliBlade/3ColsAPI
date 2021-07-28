@@ -1,5 +1,7 @@
 # 3Cols API
 
+⚠️ Version 1.0.0 is still the active version. Version 2.0.0 is published but 3Cols has not yet been updated
+
 Lightweight library supporting all available objects and endpoints used by the 3Cols API. For more information see our [docs](https://docs.3cols.com/api/apiintroduction).
 
 ### Getting your API key
