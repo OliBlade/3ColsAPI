@@ -1,6 +1,6 @@
 # 3Cols API
 
-Lightweight library supporting all available objects and endpoints used by the 3Cols API. For more information see our [docs](https://docs.3cols.com/api/apiintroduction)
+Lightweight library supporting all available objects and endpoints used by the 3Cols API. For more information see our [docs](https://docs.3cols.com/api/apiintroduction).
 
 ### Getting your API key
 
