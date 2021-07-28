@@ -6,8 +6,8 @@ namespace ThreeCols.Objects
 {
 	public class GetBoardsResponse
 	{
-		public IEnumerable<Board> OwnedBoards { get; set; }
-		public IEnumerable<Board> SharedBoards { get; set; }
-		public IEnumerable<Board> OrganisationBoards { get; set; }
+		public IEnumerable<Board> ownedBoards { get; set; }
+		public IEnumerable<Board> sharedBoards { get; set; }
+		public IEnumerable<Board> organisationBoards { get; set; }
 	}
 }

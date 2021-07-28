@@ -6,8 +6,8 @@ namespace ThreeCols.Objects
 {
 	public class SubcategoryRequest
 	{
-		public int CategoryID { get; set; }
-		public string Name { get; set; }
-		public string Language { get; set; }
+		public string categoryID { get; set; }
+		public string name { get; set; }
+		public string language { get; set; }
 	}
 }

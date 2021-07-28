@@ -6,9 +6,9 @@ namespace ThreeCols.Objects
 {
 	public class Category
 	{
-		public int? CategoryID { get; set; }
-		public string BoardID { get; set; }
-		public string Name { get; set; }
-		public string Language { get; set; }
+		public string categoryID { get; set; }
+		public string boardID { get; set; }
+		public string name { get; set; }
+		public string language { get; set; }
 	}
 }

@@ -6,10 +6,10 @@ namespace ThreeCols.Objects
 {
 	public class Snippet
 	{
-		public int? SnippetID { get; set; }
-		public int SubcategoryID { get; set; }
-		public string Name { get; set; }
-		public string Content { get; set; }
-		public string Language { get; set; }
+		public string snippetID { get; set; }
+		public string subcategoryID { get; set; }
+		public string name { get; set; }
+		public string content { get; set; }
+		public string language { get; set; }
 	}
 }
