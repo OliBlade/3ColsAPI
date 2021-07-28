@@ -1,6 +1,6 @@
 # 3Cols API
 
-Lightweight library supporting all available objects and endpoints used by the 3Cols API. For more information see our [docs](https://3cols.com/docs)
+Lightweight library supporting all available objects and endpoints used by the 3Cols API. For more information see our [docs](https://docs.3cols.com/api/apiintroduction)
 
 ### Getting your API key
 
@@ -20,7 +20,7 @@ To use your new client, it's a simple as
 ```cs
 var myBoards = apiClient.ListBoards();
 ```
-Note all methods are asynchronous. For a full list of all the endpoints and their parameters, please visit the [docs](https://3cols.com/docs).
+Note all methods are asynchronous. For a full list of all the endpoints and their parameters, please visit the [docs](https://docs.3cols.com/api/apiintroduction).
 
 ### Objects
 All response and request objects are available in the ThreeCols.Objects namespace.
